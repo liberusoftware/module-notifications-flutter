@@ -1,0 +1,25 @@
+{
+  "repository": "module-notifications-flutter",
+  "capabilityKey": "liberusoftware/notifications",
+  "presentation": "mobile-flutter",
+  "package": "module_notifications_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/notifications.md",
+  "presentationPlan": "projects/boilerplate/flutter/notifications.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
